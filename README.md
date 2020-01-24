@@ -12,9 +12,7 @@ Use a Linear Layout for the UI aspects to gain practice and additional knowledge
 Questions are not random and are limited in number. The True False boolean test made it so questions could not be as complex as the real questions presented in the document below.
 
 # Next Steps
-Could add randomness to question order
-Could add high score
-Add more questions
+Could add randomness to question order. Could add high score and add more questions.
 
 
 
