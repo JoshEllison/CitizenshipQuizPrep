@@ -1,0 +1,73 @@
+<resources>
+    <string name="app_name">CitizenshipQuizPrep</string>
+    <string name="true_text">true</string>
+    <string name="false_text">false</string>
+    <string name="question_declaration">The (U.S.) Declaration of Independence was Adopted in 1776.</string>
+    <string name="correct_answer">That\'s correct</string>
+    <string name="wrong_answer">That\'s incorrect</string>
+    <string name="question_constitution">The Supreme law of the land is the Constitution.</string>
+    <string name="question_amendments">The (U.S.) Constitution has 26 Amendments.</string>
+    <string name="question_independence_rights">The two rights in the Declaration of Independence are:
+        \n \t <b>life</b> \n \t <b>pursuit of happiness</b>.</string>
+    <string name="question_religion">Freedom of religion means:
+        \n \t <b>You can practice any religion, or not practice a religion</b>.</string>
+    <string name="question_government">Journalists is one branch or part of the government.</string>
+    <string name="question_government_feds">Congress does not make federal laws.</string>
+    <string name="question_government_senators">There are one hundred (100) U.S. Senators.</string>
+    <string name="question_we_people">The idea of self-government is in the first three words of
+        the
+        Constitution. Which are: We the People</string>
+    <string name="question_amend">An amendment is a change to the constitution</string>
+    <string name="question_bill_of">Rights of the People is what we call the first ten amendments
+        to the Constitution</string>
+    <string name="question_first">One right or freedom from the First Amendment is the right to
+        bear arms</string>
+    <string name="question_france">The Declaration of Independence declared our independence from
+        France</string>
+    <string name="question_market">The economic system in the United States is a market/capitalist
+        economy</string>
+    <string name="question_checks">Checks and balances stop one branch of government from becoming
+        too powerful</string>
+    <string name="question_in_charge">The speaker of the house is in charge of the executive
+        branch</string>
+    <string name="question_two_parts">The Senate and the House of Representatives are the two parts
+        of the U.S. Congress</string>
+    <string name="question_senate_term">A U.S. Senator is elected for 3 years</string>
+    <string name="question_number_vote">There are 435 voting members of the House of
+        Representatives</string>
+    <string name="question_rep_elect">A U.S. Representative (House) is elected for 2 years</string>
+    <string name="question_senator_people">A U.S. Senator represents only the people in their
+        county</string>
+    <string name="question_number_reps">When a state was adopted to the U.S. determines how many
+        Representatives it has</string>
+    <string name="question_president_term">A President is elected for 6 years</string>
+    <string name="question_voting">We vote for President in December</string>
+    <string name="question_power">If the President can no longer serve the Vice President becomes
+        President</string>
+    <string name="question_power_next">If the President and Vice President can no longer serve the
+        Ranking General becomes President</string>
+    <string name="question_military">The President is the Commander in Chief of the
+        military</string>
+    <string name="question_cabinet">The President’s Cabinet refers to where he keeps his
+        alcohol</string>
+    <string name="question_highest_court">The highest court in the United States is the Supreme
+        Court</string>
+    <string name="question_federal_power">Under our Constitution, The federal government has the
+        power to declare war</string>
+    <string name="question_state_power">Under our Constitution, one power of the state is to print
+        money</string>
+    <string name="question_political_parties">The two major political parties in the United States
+        are
+        Democratic and Communist</string>
+    <string name="question_jury_duty">To serve on a jury is one responsibility that is only for
+        United States citizens</string>
+    <string name="question_voting_rights">A non citizen can vote in a federal election</string>
+    <string name="question_rights_for">Freedom of speech and the right to bear arms are two rights
+        of everyone living in the United States</string>
+    <string name="question_pledge">The United States and the Flag are both things we show loyalty
+        to when we say the Pledge of Allegiance</string>
+    <string name="question_loyalty">You don’t have to give up loyalty to other countries when you
+        become a United States citizen</string>
+    <string name="next_text">next</string>
+
+</resources>
